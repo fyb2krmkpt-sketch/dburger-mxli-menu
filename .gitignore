@@ -1,0 +1,10 @@
+# Credenciales / secretos
+herenow-api-key-chatgpt.txt
+.env
+.env.*
+!.env.example
+.herenow/credentials
+
+# Sistema
+.DS_Store
+Thumbs.db
